@@ -135,3 +135,6 @@ section {
     justify-content: center;
     align-items: center;
 }
+.error{
+    border: 2px solid red;
+}
